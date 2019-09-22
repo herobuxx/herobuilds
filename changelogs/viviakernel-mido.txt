@@ -1,0 +1,24 @@
+ViviaKernel for mido Changelogs
+
+# R2 
+- Initial Release
+
+# R3T
+- Enabled Darkness CPU Gov
+- Merged kernel/common from AOSP Tree
+- Merged Zeelog's commits
+- msm8953-regulator: UnderVolt by 15mV
+- Align dentry slab cache to L1 cache line
+- kernel: Don't build perf_debug.o when debugfs is disabled
+- Restore policy min/max limits on CPU online
+- use memcpy() to copy policy 
+- add ARM64-specific support for flatmem
+- Revert Qualcomm Panic data corruption commits
+- BACKPORT: msm: kgsl: Keep dispatcher halted during SUSPEND state
+- Initialize ata before graphics
+- pinctrl: qcom: Add irq_enable callback for msm gpio 
+- printk: disable console suspend by default
+- selinux: set to permissive but report enforcing
+- qcom: qmi: release mutex upon qmi_svc_event_notifier_register error
+- thermal: qpnp-adc-tm: release lock upon disable_chan_meas failure 
+- Much more
