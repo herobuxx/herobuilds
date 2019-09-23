@@ -8,7 +8,7 @@
 |-----------|------|------|----------|
 |  R2  |   Sep 19, 2019   |   HMP   |     [Download](https://sourceforge.net/projects/rfdforce/files/mido/kernel/viviakernel/ViviaKernel-R2.zip/download)     |
 |  R3T  |   Sep 22, 2019   |   HMP   |     [Download](https://sourceforge.net/projects/rfdforce/files/mido/kernel/viviakernel/ViviaKernel_MIDO-R3T.zip/download)     |
-|  R3T  |   Sep 23, 2019   |   HMP   |     [Download](https://www.pling.com/p/1326573/)     |
+|  R4T  |   Sep 23, 2019   |   HMP   |     [Download](https://www.pling.com/p/1326573/)     |
 
 #### How to Download
 - Open the files tab
