@@ -22,3 +22,9 @@ ViviaKernel for mido Changelogs
 - qcom: qmi: release mutex upon qmi_svc_event_notifier_register error
 - thermal: qpnp-adc-tm: release lock upon disable_chan_meas failure 
 - Much more
+
+# R4T
+- Audio Slimbus O.C enabled
+- DTS Eagle Enabled
+- AudioWizard brungup
+- And much other Audio stuffs
