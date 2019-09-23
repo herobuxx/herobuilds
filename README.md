@@ -1,4 +1,4 @@
-# Welcome to HEroBuilds Download
+# Welcome to HeroBuilds Download
 
 
 ## Downloads
