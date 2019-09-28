@@ -9,5 +9,7 @@
 ### Untested builds
 - [Untested list](https://github.com/herobuxx/herobuilds/blob/master/untested.md)
 
+## Support me!
+Hi, if you like my work you can support me by [donating](https://github.com/herobuxx/herobuilds/blob/master/donation.md) me!
 
 [Join our Telegram group](t.me/herobeeld)
