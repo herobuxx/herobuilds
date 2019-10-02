@@ -28,3 +28,7 @@ ViviaKernel for mido Changelogs
 - DTS Eagle Enabled
 - AudioWizard brungup
 - And much other Audio stuffs
+
+# R5T
+- Adapt with Android 10
+- Some small changes
