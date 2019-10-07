@@ -1,0 +1,19 @@
+{
+
+"Template1": {
+	"fullname": "Template1",
+	"date": "date here",
+	"device": "device here",
+	"download_link": "toymaker",
+	"changelog": ""
+},
+
+"Template2": {
+	"fullname": "Template2",
+	"date": "date here",
+	"device": "device here",
+	"download_link": "toymaker",
+	"changelog": ""
+}
+
+}
