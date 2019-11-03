@@ -7,6 +7,8 @@
 ### Kernels
 - [ViviaKernel](https://github.com/herobuxx/herobuilds/blob/master/viviakernel.md)
 
+### Builds
+ - AospExtended Android Ten [mido](https://github.com/herobuxx/herobuilds/blob/master/mido/aex.md)
 ### Untested builds
 - [Untested list](https://github.com/herobuxx/herobuilds/blob/master/untested.md)
 
