@@ -30,4 +30,5 @@
 - Disabled iorapd
 - Improve bad RAM Management
 - Some fixes for wifi
-- Kill unsupported media codecs to prevent logspamFlatten APEX(s)
+- Kill unsupported media codecs to prevent logspam
+- Flatten APEX(s) for preformance
