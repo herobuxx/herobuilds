@@ -21,3 +21,13 @@
 - Import SEPolicy from LA.UM.9.15.r1-06000-KAMORTA.QSSI13.0
 - Disable VSync for CPU rendered apps 
 - Improve perfomance from last build
+
+## July 10, 2022
+- July security patch here! Check PixelExperience for more ROM Side changes
+- Now FM Radio working
+- Apply several Android Go configurations
+- Applied LMKD Properties to prevent killing on meidum pressure
+- Disabled iorapd
+- Improve bad RAM Management
+- Some fixes for wifi
+- Kill unsupported media codecs to prevent logspamFlatten APEX(s)
