@@ -32,3 +32,11 @@
 - Some fixes for wifi
 - Kill unsupported media codecs to prevent logspam
 - Flatten APEX(s) for preformance
+
+## July 18, 2022
+- Update blobs from MIUI 12.5.11.0
+- Update vendor security patch to May 2022
+- CLEANUP: Drop unused properties
+- Switch CarrierConfig overlay an RRO Overlays and checkou CAF changes
+- Fix VoLTE for Indonesian carriers
+- Fix surfaceflinger denials
