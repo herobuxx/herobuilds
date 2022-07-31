@@ -40,3 +40,16 @@
 - Switch CarrierConfig overlay an RRO Overlays and checkou CAF changes
 - Fix VoLTE for Indonesian carriers
 - Fix surfaceflinger denials
+
+## July 31, 2022
+- Use Healthd from AOSP
+- Drop more unused props and packages
+- Fix more SEPolicy denials
+- Apply Stock Fingerprint from MIUI
+- Added Basic Xiaomi Parts
+- Added Alipay fingerprint support
+- Drop Qualcomm's trash Wi-Fi display implementation
+- Kernel: Merge changes from `LA.UM.9.15.r1-06100-KAMORTA.QSSI13.01
+- Kernel: Now NVT36672A/D Fixed and working perfectly
+- KJrnel: DT2W Now working for NVT Panels
+- Kernel: Applied Custom QCOM Backports for Better Memory Management and performance
